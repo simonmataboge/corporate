@@ -720,7 +720,7 @@ text-align: center;
     width: 50px;
     border-radius: 200px;
     margin-left: 10px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 .client-portfolio-box h6
 {
@@ -2286,4 +2286,10 @@ color:darkblue;
         width: 470px;
         margin-top: 20px;
 	}
+}
+
+
+.checked
+{
+    color: goldenrod;
 }
